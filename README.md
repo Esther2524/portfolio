@@ -34,6 +34,9 @@ utilizing **Git**, improving proficiency in **version control** and enhancing **
 - Integrated the **Google Map API** to effectively display the locations of individuals/communities needing menstrual products and those donating them.
 - Implemented the application’s front-end using **React** and **Vite**, paired with a back-end developed with **Node.js**, **Prisma** and **MySQL**.
 
+![application screenshot](asset/img/flowlink_01.png)
+![application screenshot](asset/img/flowlink_02.png)
+
 **[Soccer Team Manager | Java | Personal Project](https://github.com/Esther2524/soccerTeamManager)** *Aug 2023*
 - Developed a **Java** application with an **interactive GUI** using **AWT** and **Swing** frameworks. Applied Object-Oriented Programming (**OOP**) principles for eﬀicient team management, including **ActionListener** for seamless navigation and real-time functionality.
 - Facilitated features such as player addition/removal, team details viewing, and automatic starting lineup
