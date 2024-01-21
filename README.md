@@ -2,11 +2,9 @@
 
 ## Education
 - **Northeastern University** *Jan 2023 – Dec 2025*
-  
     Master of Science in Computer Science, **GPA 4.0/4.0**
 
 - **China University of Geosciences** *Sep 2017 – Jun 2021*
-
     Bachelor of Accounting, **Grade 91.2/100**
   
 ## SKILLS
