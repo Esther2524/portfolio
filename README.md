@@ -43,6 +43,7 @@ utilizing **Git**, improving proficiency in **version control** and enhancing **
 - Facilitated features such as player addition/removal, team details viewing, and automatic starting lineup
 generation, following the Model-View-Controller (**MVC**) architectural pattern.
 
+![application screenshot](asset/img/manager_01.png)
 
 **[Artwork Viewer Python Personal Project](https://github.com/Esther2524/artwork_viewer)** *Apr 2023*
 - Created a **Python** application with a **Tkinter-designed three-page** interface for exploring artist and art- work data. Utilized **Regular Expressions** for data cleaning, **Pandas** for data manipulation, and **custom hash method** for merging and deduplication.
