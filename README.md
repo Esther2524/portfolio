@@ -1,14 +1,12 @@
 # Portfolio
 
 ## Education
-- **Northeastern University** *Jan 2023 – Dec 2025*
-    Master of Science in Computer Science, **GPA 4.0/4.0**
-
-- **China University of Geosciences** *Sep 2017 – Jun 2021*
-    Bachelor of Accounting, **Grade 91.2/100**
+- **Northeastern University** | Master of Science in Computer Science, **GPA 4.0/4.0** | Jan 2023 – Dec 2025
+- **China University of Geosciences** | Bachelor of Accounting, Grade 91.2/100 | Sep 2017 – Jun 2021
+    
   
 ## SKILLS
-- **Programming Languages**: JavaScript, Python, Java, SQL, HTML/CSS, C
+- **Programming Languages**: JavaScript, Python, Java, SQL, C, HTML/CSS
 - **Graduate-level Courses**: Web Development, Mobile Application Development, Database Management,Object-Oriented Design, Data Structures and Algorithms, Discrete Structures
 
 
