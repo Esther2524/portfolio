@@ -1,8 +1,8 @@
 # Portfolio
 
 ## Education
-- **Northeastern University** Master of Science in Computer Science, **GPA 4.0/4.0** *Jan 2023 – Dec 2025*
-- **China University of Geosciences** Bachelor of Accounting, Grade 91.2/100 *Sep 2017 – Jun 2021*
+- **Northeastern University**, Master of Science in Computer Science, **GPA 4.0/4.0**, *Jan 2023 – Dec 2025*
+- **China University of Geosciences**, Bachelor of Accounting, Grade 91.2/100, *Sep 2017 – Jun 2021*
     
   
 ## SKILLS
