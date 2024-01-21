@@ -26,6 +26,9 @@ utilizing **Git**, improving proficiency in **version control** and enhancing **
 - Employed **Prisma** as the ORM tool with **MySQL** to store data in a cloud environment (deployed on **PlanetScale**), ensuring real-time data availability and interaction.
 - Integrated **Auth0** for secure **user authentication**, providing reliable login and logout functionalities.
 
+![application screenshot](asset/img/cinetracker_01.png)
+![application screenshot](asset/img/cinetracker_02.png)
+
 **[Flow Link | Full Stack Web Application | Team Project for Hackathon](https://hackathon-team2-demo.vercel.app/home)** *Nov 2023*
 - Developed an application featuring an **interactive map** in three days for United Way British Columbia and the Period Promise Campaign, assisting volunteers in distributing and delivering menstrual products, thereby connecting communities, volunteers, and suppliers. 
 - Integrated the **Google Map API** to effectively display the locations of individuals/communities needing menstrual products and those donating them.
