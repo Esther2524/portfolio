@@ -2,11 +2,18 @@
 
 ## Education
 - **Northeastern University** *Jan 2023 – Dec 2025*
-Master of Science in Computer Science, **GPA 4.0/4.0**
+  
+    Master of Science in Computer Science, **GPA 4.0/4.0**
 
 - **China University of Geosciences** *Sep 2017 – Jun 2021*
-Bachelor of Accounting, **Grade 91.2/100**
+
+    Bachelor of Accounting, **Grade 91.2/100**
   
+## SKILLS
+- **Programming Languages**: JavaScript, Python, Java, SQL, HTML/CSS, C
+- **Graduate-level Courses**: Web Development, Mobile Application Development, Database Management,Object-Oriented Design, Data Structures and Algorithms, Discrete Structures
+
+
 ## Work Experience
 **Teaching Assistant | Northeastern University** *Sep 2023 - Present*
 - Mentored eleven graduate students in the course ”Intensive Foundations of Computer Science,” specifically guiding the design and development of their final projects. Provided instruction in **Python** and **Streamlit**, with a focus on integrating **external APIs** for creating **web applications**.
