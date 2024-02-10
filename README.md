@@ -7,7 +7,7 @@
   
 ## SKILLS
 - **Programming Languages**: JavaScript, Python, Java, SQL, C, HTML/CSS
-- **Graduate-level Courses**: Web Development, Mobile Application Development, Database Management,Object-Oriented Design, Data Structures and Algorithms, Discrete Structures
+- **Graduate-level Courses**: Web Development, Mobile Application Development, Database Management, Object-Oriented Design, Data Structures and Algorithms, Discrete Structures
 
 
 ## Work Experience
