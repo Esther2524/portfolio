@@ -72,7 +72,7 @@ body {
 .container {
     display: flex;
     flex-direction: row;
-    padding: 10rem 9% 2rem;
+    padding: 2rem 9% 2rem;
 }
 
 .sidebar {
@@ -238,4 +238,54 @@ span {
 .doing-box p {
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
+}
+
+.resume {
+    padding: 10rem 1rem;
+}
+
+.resume h3 {
+    font-size: 2.6rem;
+}
+
+.resume h4 {
+    font-size: 1.6rem;
+    color: var(--text-color);
+}
+
+.resume span {
+    font-size: 1.6rem;
+}
+
+.resume p {
+    font-size: 1.6rem;
+    color: var(--second-text-color);
+}
+
+.timeline-title-area {
+    display: flex;
+}
+
+.timeline-title-area  i {
+    font-size: 4rem;
+    color: var(--main-color);
+    margin-right: 2.5rem; 
+}
+
+.timeline-item-area {
+    display: flex;
+    margin: 2rem 0;
+}
+
+.timeline-item-area i {
+    font-size: 1.2rem;
+    color: var(--main-color);
+    margin-right: 4rem;
+    margin-left: 1.5rem;
+}
+
+.item-content {
+    display: flex;
+    flex-direction: column; 
+    flex-grow: 1;
 }
