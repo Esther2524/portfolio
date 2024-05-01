@@ -315,8 +315,6 @@ span {
 
 .portfolio {
     padding: 10rem 1rem;
-    /* background: var(--second-bg-color); */
-    /* border-radius: 10%; */
 }
 
 .portfolio h3 {
@@ -326,12 +324,19 @@ span {
 .portfolio-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    align-items: center;
+    grid-auto-rows: minmax(300px, auto);
+    align-items: start;
     gap: 2.5rem;
 }
 
+.portfolio-box {
+    border-radius: 1rem;
+    overflow: hidden; /* Ensures nothing spills out of the box */
+    padding: 2rem;
+}
+
 .portfolio img {
-    width: 80%;
+    width: 100%;
     border-radius: 2rem;
     transition: .5s ease;
     border: .2rem solid var(--bg-color);
@@ -340,11 +345,10 @@ span {
 .portfolio img:hover {
     transform: scale(1.03);
     border-color: var(--main-color);
-
 }
 
 .portfolio-layer h4 {
-    font-size: 2.3rem;
+    font-size: 2rem;
 }
 
 .portfolio-layer p {
