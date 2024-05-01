@@ -1,3 +1,4 @@
+// 1. Navigation
 document.addEventListener('DOMContentLoaded', () => {
     const sections = document.querySelectorAll('section:not(.sidebar)'); // Select all sections except the sidebar
     const navLinks = document.querySelectorAll('header nav a');
@@ -28,5 +29,31 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             this.classList.add('active');
         });
+    });
+});
+
+
+
+// 2. Filtering
+document.querySelectorAll('.category-list button').forEach(button => {
+    button.addEventListener('click', function() {
+        // get the category from button text
+        const category = this.innerText.toLowerCase();
+        const boxes = document.querySelectorAll('.portfolio-box');
+
+        boxes.forEach(box => {
+            if (category === 'all' || box.dataset.category === category) {
+                box.style.display = 'block'; // display the box
+            } else {
+                box.style.display = 'none'; // hide the box
+            }
+        });
+
+        // update active class on buttons
+        document.querySelectorAll('.category-list .active').forEach(active => {
+            active.classList.remove('active');
+        });
+        this.classList.add('active');
+
     });
 });
