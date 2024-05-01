@@ -291,51 +291,74 @@
         <!-- portfolio section design -->
         <section class="portfolio" id="portfolio">
             <h3 class="heading">Latest <span>Projects</span></h3>
+
+            <!-- all the categories: 'All', 'Web Development', 'Mobile Development', 'Game Development'， 'Python Project', 'Java Project' -->
+            <ul class="category-list">
+                <li>
+                    <button class="active">All</button>
+                </li>
+                <li>
+                    <button>Web Development</button>
+                </li>
+                <li>
+                    <button>Mobile Development</button>
+                </li>
+                <li>
+                    <button>Game Development</button>
+                </li>
+                <li>
+                    <button>Python</button>
+                </li>
+                <li>
+                    <button>Java</button>
+                </li>
+            </ul>
+
             <div class="portfolio-container">
-                <div class="portfolio-box">
+                <div class="portfolio-box" data-category="mobile development">
                     <a href="https://www.youtube.com/watch?v=-Obi2hcmABA" target="_blank">
                         <img src="asset/img/study-sphere.png" alt="study-sphere-picture">
                     </a>
                     <div class="portfolio-layer">
                         <h4>Study Sphere: Focus & Friends</h4>
-                        <p>React Native Mobile Project</p>
+                        <p>React Native</p>
                     </div>
                 </div>
-                <div class="portfolio-box">
+                <div class="portfolio-box" data-category="web development">
                     <a href="https://cinetracker-v1.vercel.app/" target="_blank">
                         <img src="asset/img/cinetracker_01.png" alt="cine-tracker-picture">
                     </a>
                     <div class="portfolio-layer">
                         <h4>Cine Tracker</h4>
-                        <p>Full-Stack Web Porject: React.JS</p>
+                        <p>React.JS</p>
                     </div>
                 </div>
-                <div class="portfolio-box">
+                <div class="portfolio-box" data-category="web development">
                     <a href="https://hackathon-team2-demo.vercel.app/home" target="_blank">
                         <img src="asset/img/flowlink_01.png" alt="flow-link-picture">
                     </a>
                     <div class="portfolio-layer">
                         <h4>Flow Link</h4>
-                        <p>Full-Stack Web Porject</p>
+                        <p>React.JS</p>
                     </div>
                 </div>
-                <div class="portfolio-box">
+                <div class="portfolio-box" data-category="java">
                     <a href="https://github.com/Esther2524/soccerTeamManager" target="_blank">
                         <img src="asset/img/manager_01.png" alt="java-project-picture">
                     </a>
                     <div class="portfolio-layer">
                         <h4>Soccer Manager</h4>
-                        <p>Java project</p>
+                        <p>GUI designed by Java AWT and Swing</p>
                     </div>
                 </div>
 
-                <div class="portfolio-box">
+                <div class="portfolio-box" data-category="python">
                     <a href="https://github.com/Esther2524/artwork_viewer" target="_blank">
                         <img src="asset/img/artwork-viewer-01.png" alt="python-project-picture">
                     </a>
                     <div class="portfolio-layer">
                         <h4>Artwork Viewer</h4>
-                        <p>Python project with a dashboard to display data visualization and analysis</p>
+                        <p>Data visualization and analysis using Pandas, Numpy, and Matplotlib</p>
                     </div>
                 </div>
 

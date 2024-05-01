@@ -45,17 +45,18 @@ body {
 }
 
 .logo {
-    font-size: 2.5rem;
+    font-size: 3.3rem;
     color: var(--text-color);
     font-weight: 600;
     cursor: default;
 }
 
 .navbar a {
-    font-size: 1.7rem;
+    font-size: 2.2rem;
     color: var(--text-color);
     margin-left: 4rem;
     transition: .3s;
+    font-weight: 500;
 }
 
 .navbar a:hover,
@@ -329,7 +330,40 @@ span {
     gap: 2.5rem;
 }
 
+.category-list {
+    list-style-type: none; /*  removes default list styling */
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2rem;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--second-bg-color);
+    border-radius: 1.5rem;
+    padding: 1rem;
+}
+
+.category-list button {
+    padding: 1rem; 
+    cursor: pointer; /* Changes the mouse cursor to a pointer on hover */
+    border: none; /* Removes the default border */
+    background-color: var(--second-bg-color);
+    /* button text */
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: var(--text-color); 
+}
+
+.category-list button:hover {
+    color: var(--main-color);
+}
+
+.category-list button.active {
+    color: var(--main-color);
+}
+
+
 .portfolio-box {
+    /* display: block; no need to set it block here, since block is the default value */
     border-radius: 1rem;
     overflow: hidden; /* Ensures nothing spills out of the box */
     padding: 2rem;
