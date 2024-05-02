@@ -18,7 +18,7 @@
     --second-bg-color: #323946;
     --text-color: #fff;
     --second-text-color: rgb(173, 168, 168);
-    --main-color: #0ef;
+    --main-color: #F8D082;
 }
 
 html {
@@ -198,6 +198,7 @@ span {
 
 .about-content p {
     font-size: 1.6rem;
+    margin-bottom: 1.2rem;
 }
 
 .heading {
@@ -310,8 +311,13 @@ span {
     color: var(--main-color);
 }
 
-.resume span {
+/* .resume span {
     color: var(--text-color);
+} */
+
+.resume .highlight-content {
+    color: var(--text-color);
+
 }
 
 .portfolio {
