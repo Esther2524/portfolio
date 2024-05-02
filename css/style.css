@@ -310,8 +310,13 @@ span {
     color: var(--main-color);
 }
 
-.resume span {
+/* .resume span {
     color: var(--text-color);
+} */
+
+.resume .highlight-content {
+    color: var(--text-color);
+
 }
 
 .portfolio {
